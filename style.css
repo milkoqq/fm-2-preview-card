@@ -163,7 +163,8 @@ img {
   color: var(--color-gray-950);
 }
 
-.card_content_title:hover {
+.card_content_title:hover,
+.card_content_title:focus {
   color: var(--color-yellow);
 }
 
