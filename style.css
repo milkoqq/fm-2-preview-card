@@ -95,6 +95,8 @@ body {
   align-items: center;
   justify-content: center;
 }
+/* Since every preset is sharing it's own line height and spacing,
+get them all together */
 
 .text-preset-1,
 .text-preset-2,
